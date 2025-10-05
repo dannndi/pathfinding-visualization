@@ -1,16 +1,6 @@
 # path_finder
+this is first version of pathfinding visualization, the implmenetation is not optimize.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# path_finder v2
+for latest path finding visualization, you can access it on the description of this video
+👉 [Get on YouTube](https://youtu.be/EGvWbMfQYUE)
